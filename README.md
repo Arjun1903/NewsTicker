@@ -1,29 +1,9 @@
-# tutorial
+#vue_js
+Successful Interactive web application on " Newsticker " for live broadcasted articles.
 
-## Project setup
-```
-npm install
-```
+About this Project- It is a service by which news is shown on a regular basis with broadcasting from different channels.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ These are the addon features in this project-*Category Filters
+                                              *Search Option
+                                              *Article Clickables
+                                              *Plugins: Vuetify
